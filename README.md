@@ -1,3 +1,3 @@
 # Travel-India
-travel website.
+travel website using Django Python.
 done.
